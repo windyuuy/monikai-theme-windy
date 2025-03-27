@@ -1,0 +1,21 @@
+{
+  "name": "monikai-windy",
+  "displayName": "monikai-windy",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "monikai-windy",
+        "uiTheme": "hc-black",
+        "path": "./themes/monikai-windy-color-theme.json"
+      }
+    ]
+  }
+}
