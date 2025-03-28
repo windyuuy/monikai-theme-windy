@@ -1,21 +1,28 @@
 {
-  "name": "monikai-windy",
-  "displayName": "monikai-windy",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.98.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "monikai-windy",
-        "uiTheme": "hc-black",
-        "path": "./themes/monikai-windy-color-theme.json"
-      }
-    ]
-  }
+    "name": "monikai-windy",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "windy",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "monikai-windy",
+                "label": "%themeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monikai-windy-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/microsoft/vscode.git"
+    }
 }

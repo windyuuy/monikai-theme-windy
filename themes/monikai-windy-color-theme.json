@@ -3,21 +3,21 @@
 	"name": "monikai-windy",
 	"type": "dark",
 	"colors": {
-		"activityBar.background": "#272822",
+		"activityBar.background": "#000000",
 		"activityBar.foreground": "#f8f8f2",
 		"badge.background": "#75715e",
-		"badge.foreground": "#f8f8f2",
+		"badge.foreground": "#f8f2f2",
 		"button.background": "#75715e",
 		"debugToolBar.background": "#1e1f1c",
 		"diffEditor.insertedTextBackground": "#4b661680",
 		"diffEditor.removedTextBackground": "#90274a70",
 		"dropdown.background": "#414339",
 		"dropdown.listBackground": "#1e1f1c",
-		"editor.background": "#272822",
+		"editor.background": "#222222",
 		"editor.foreground": "#e0ffdf",
-		"editor.lineHighlightBackground": "#3e3d32",
-		"editor.selectionBackground": "#878b9180",
-		"editor.selectionHighlightBackground": "#575b6180",
+		"editor.lineHighlightBackground": "#002f64",
+		"editor.selectionBackground": "#001b64",
+		"editor.selectionHighlightBackground": "#ff000080",
 		"editor.wordHighlightBackground": "#4a4a7680",
 		"editor.wordHighlightStrongBackground": "#6a6a9680",
 		"editorCursor.foreground": "#f8f8f0",
@@ -66,7 +66,7 @@
 		"quickInputList.focusBackground": "#414339",
 		"selection.background": "#878b9180",
 		"settings.focusedRowBackground": "#4143395a",
-		"sideBar.background": "#1e1f1c",
+		"sideBar.background": "#000000",
 		"sideBarSectionHeader.background": "#272822",
 		"statusBar.background": "#414339",
 		"statusBar.debuggingBackground": "#75715e",
@@ -1020,7 +1020,7 @@
 		{
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#34e22e",
 				"fontStyle": "underline"
 			}
 		},
@@ -1037,7 +1037,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#A6E22E",
+				"foreground": "#34e22e",
 				"fontStyle": ""
 			}
 		},
