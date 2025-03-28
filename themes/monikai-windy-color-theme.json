@@ -15,7 +15,7 @@
 		"dropdown.listBackground": "#1e1f1c",
 		"editor.background": "#222222",
 		"editor.foreground": "#e0ffdf",
-		"editor.lineHighlightBackground": "#002f64",
+		"editor.lineHighlightBackground": "#002f64ef",
 		"editor.selectionBackground": "#001b64",
 		"editor.selectionHighlightBackground": "#ff000080",
 		"editor.wordHighlightBackground": "#4a4a7680",
