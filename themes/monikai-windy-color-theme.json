@@ -13,9 +13,9 @@
 		"diffEditor.removedTextBackground": "#90274a70",
 		"dropdown.background": "#414339",
 		"dropdown.listBackground": "#1e1f1c",
-		"editor.background": "#222222",
-		"editor.foreground": "#e0ffdf",
-		"editor.lineHighlightBackground": "#002f64ef",
+		"editor.background": "#0e0e0e",
+		"editor.foreground": "#ccffcc",
+		"editor.lineHighlightBackground": "#002f64cf",
 		"editor.selectionBackground": "#001b64",
 		"editor.selectionHighlightBackground": "#ff000080",
 		"editor.wordHighlightBackground": "#4a4a7680",
@@ -1020,7 +1020,7 @@
 		{
 			"scope": "entity.name.type, entity.name.class, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
-				"foreground": "#34e22e",
+				"foreground": "#00a2ff",
 				"fontStyle": "underline"
 			}
 		},
@@ -1037,7 +1037,7 @@
 		{
 			"scope": "entity.name.function",
 			"settings": {
-				"foreground": "#34e22e",
+				"foreground": "#00ff00",
 				"fontStyle": ""
 			}
 		},
